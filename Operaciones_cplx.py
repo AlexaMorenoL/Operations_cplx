@@ -49,6 +49,6 @@ def matriz_conjugada(matriz):
     return conjugada
 
 if __name__ == '__main__':
-    """Estos print se utilizan para probar el correcto funcionamiento de cada función 
+    """Este print se utiliza para probar el correcto funcionamiento de cada función 
     (Herramienta del programador) """
     print("La conjugada, es: ", matriz_conjugada((2+3, -2+3, 1-2, 1+2)))

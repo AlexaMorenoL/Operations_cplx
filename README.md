@@ -24,7 +24,7 @@ En esta librería se pueden encontrar las siguientes funciones:
 18. Producto tensor de dos matrices/vectores
 
 ## ¿Cómo se usa?
-Se neceitan conocer los numeros complejos que se desean operar y escoger correctamente las funciones las cuales estas demarcadas y simplificadas para su uso.
+Se deben conocer los números complejos que se desean operar y escoger correctamente las funciones las cuales están marcadas según su uso
 
 
 ## Notación

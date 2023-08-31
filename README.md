@@ -60,4 +60,4 @@ En esta libreria aparecen 4 archivos que el usuario puede usar
 
 ## Requisitos para usar el sistema
 
-Debe de poseer una versión a ***Python*** superior a 3.5, adicionalmente debe de poseer la libreria math y numpy instaladas.
+Debe de poseer una versión a ***Python*** superior a 3.5, adicionalmente debe de poseer la librería numpy instalada.

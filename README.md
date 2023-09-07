@@ -52,11 +52,11 @@ Matrices Complejas
 ### Archivos
 
  
-En esta libreria aparecen 3 archivos que el usuario puede usar
+En esta librería aparecen 3 archivos que el usuario puede usar
 
--
-- ***.gitignore*** -> Es el archivo que excluye que no queremos que se suba al repositorio GITHUB
-- ***README.md*** -> Es el archivo de texto de la libreria
+- ***Test_vect_mat.py*** -> Es el archivo de testeo con diversos casos de prueba para corroborar que las funciones se hayan realizado correctamente y se puedan cambiar las variables y las respuestas para poder verificar un ejercicio realizado con otro programa.
+- ***.gitignore*** -> Es el archivo que excluye lo que no queremos que se suba al repositorio GITHUB.
+- ***README.md*** -> Es el archivo de texto de la librería.
 
 ## Requisitos para usar el sistema
 

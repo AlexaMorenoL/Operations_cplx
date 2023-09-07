@@ -37,13 +37,13 @@ De esta manera se representan los números complejos.
 Vectores complejos
 
 ``` txt
-[1 + 6i, 8 -4i]
+[1 + 6j, 8 -4j]
 ```
 Matrices Complejas
 ``` txt
-[[1 + 6i, 8 - 4i],
-[5 - 9i, 4 - 2i],
-[1 + 6i, 2 - 4i]]
+[[1 + 6j, 8 - 4j],
+[5 - 9j, 4 - 2j],
+[1 + 6j, 2 - 4j]]
 ```
 
 ## Contenido
@@ -52,9 +52,9 @@ Matrices Complejas
 ### Archivos
 
  
-En esta libreria aparecen 4 archivos que el usuario puede usar
+En esta libreria aparecen 3 archivos que el usuario puede usar
 
-
+-
 - ***.gitignore*** -> Es el archivo que excluye que no queremos que se suba al repositorio GITHUB
 - ***README.md*** -> Es el archivo de texto de la libreria
 
